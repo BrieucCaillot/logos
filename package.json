@@ -1,0 +1,25 @@
+{
+	"name": "logos",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"svgo": "svgo -f logos -o logos",
+		"lint": "prettier --check logos.json",
+		"format": "prettier --write logos.json"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "pnpm run svgo && pnpm run format && git add -A ."
+		}
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"husky": "^8.0.3"
+	},
+	"devDependencies": {
+		"prettier": "^2.8.7"
+	}
+}
