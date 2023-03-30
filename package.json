@@ -6,12 +6,8 @@
 	"scripts": {
 		"svgo": "svgo -f logos -o logos",
 		"lint": "prettier --check logos.json",
-		"format": "prettier --write logos.json"
-	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "pnpm run svgo && pnpm run format && git add -A ."
-		}
+		"format": "prettier --write logos.json",
+		"prepare": "husky install"
 	},
 	"keywords": [],
 	"author": "",

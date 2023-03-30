@@ -33,9 +33,7 @@ All SVG are optimized using SVGO, basically, it's a tool that removes all the un
 
 ## 🚨 Stay Up-to-Date
 
-SVGHaven officially launched on March 28st, 2022. There are a lot of new logos & features coming very frequently.
-
-![svg-star-github](https://github.com/BrieucCaillot/.github/images/star-svg-haven.gif?raw=true)
+SVGHaven officially launched on March 30st, 2023. There are a lot of new logos & features coming very frequently. Make sure to star the repo to stay up-to-date
 
 Also make sure to follow us on Twitter for the latest updates.
 
