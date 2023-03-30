@@ -1,8 +1,3 @@
-<svg fill="none" viewBox="0 0 67 66" xmlns="http://www.w3.org/2000/svg">
-  <mask id="wise-icon_svg__a" width="67" height="66" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
-    <path fill="#fff" d="M66.11.513H.784V65.84H66.11V.513Z"/>
-  </mask>
-  <g mask="url(#wise-icon_svg__a)">
-    <path fill="#0ABF53" fill-rule="evenodd" d="M66.103 13.556v52.262H13.885c-7.204 0-13.1-5.9-13.1-13.112V38.095c0-7.211 5.896-13.112 13.1-13.112h14.13v20.793a3.755 3.755 0 0 0 3.744 3.746h7.111V20.58a3.755 3.755 0 0 0-3.743-3.747H1.72V.537h51.282c7.206 0 13.1 5.9 13.1 13.018Z" clip-rule="evenodd"/>
-  </g>
+<svg fill="none" viewBox="0 0 68 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#00B9FF" d="M20.044 19.226.264 38.06h33.627l3.511-8.208H20.365L31.02 19.225 24.83 8.598h28.91L27.062 71.411h10.02L67.266.391H8.943l11.101 18.834Z"/>
 </svg>
