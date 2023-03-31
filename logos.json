@@ -9024,7 +9024,8 @@
     "shortname": "stripe",
     "url": "https://stripe.com/",
     "files": [
-      "stripe.svg"
+      "stripe.svg",
+      "stripe-icon.svg"
     ]
   },
   {
