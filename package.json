@@ -4,18 +4,16 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"svgo": "svgo -f logos -o logos",
-		"lint": "prettier --check logos.json",
-		"format": "prettier --write logos.json",
+		"svgo": "npx svgo -f logos -o logos",
+		"sort": "node sort_logos.js",
+		"pre-commit": "pnpm run svgo && pnpm run sort",
 		"prepare": "husky install"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"fs": "0.0.1-security",
 		"husky": "^8.0.3"
-	},
-	"devDependencies": {
-		"prettier": "^2.8.7"
 	}
 }

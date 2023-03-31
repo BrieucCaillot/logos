@@ -45,6 +45,16 @@ Whether it's big or small, we love contributions ❤️
 
 ### Steps to follow
 
+1. Fork the repo
+2. Clone the repo
+3. Create a new branch
+4. Install dependencies using `pnpm install`, `yarn install` or `npm install`
+5. Copy your SVG file into the `logos` folder with the correct naming convention
+6. Add your SVG file to the `logos.json` file (Make sure to add your file to the array of files if the brand already exists)
+7. Commit your changes - Pre commit hooks will run to optimize your SVGs and format `logos.json`
+8. Push your changes
+9. Create a pull request
+
 ## 🦸 Contributors
 
 [//]: contributor-faces
