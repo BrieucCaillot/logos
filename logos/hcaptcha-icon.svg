@@ -85,34 +85,26 @@
   <path fill="url(#hcaptcha-icon_svg__c)" d="M32.007 192h32.007v32.007H32.007z" opacity=".7"/>
   <path fill="url(#hcaptcha-icon_svg__d)" d="M223.993 160.007H256V192h-32.007z" opacity=".5"/>
   <path fill="url(#hcaptcha-icon_svg__e)" d="M192 160.007h31.993V192H192z" opacity=".8"/>
-  <path fill="url(#hcaptcha-icon_svg__f)" d="M160.007 160.007h32.007V192h-32.007z"/>
-  <path fill="url(#hcaptcha-icon_svg__f)" d="M128 160.007h32.007V192H128z"/>
-  <path fill="url(#hcaptcha-icon_svg__f)" d="M96.007 160.007h32.007V192H96.007z"/>
-  <path fill="url(#hcaptcha-icon_svg__f)" d="M64 160.007h32.007V192H64z"/>
+  <path fill="url(#hcaptcha-icon_svg__f)" d="M160.007 160.007h32.007V192h-32.007zm-32.007 0h32.007V192H128z"/>
+  <path fill="url(#hcaptcha-icon_svg__f)" d="M96.007 160.007h32.007V192H96.007zm-32.007 0h32.007V192H64z"/>
   <path fill="url(#hcaptcha-icon_svg__f)" d="M32.007 160.007h32.007V192H32.007z" opacity=".8"/>
   <path fill="url(#hcaptcha-icon_svg__f)" d="M0 160.007h32.007V192H0z" opacity=".5"/>
   <path fill="url(#hcaptcha-icon_svg__g)" d="M223.993 128H256v32.007h-32.007z" opacity=".7"/>
   <path fill="url(#hcaptcha-icon_svg__h)" d="M192 128h31.993v32.007H192z"/>
-  <path fill="url(#hcaptcha-icon_svg__i)" d="M160.007 128h32.007v32.007h-32.007z"/>
-  <path fill="url(#hcaptcha-icon_svg__i)" d="M128 128h32.007v32.007H128z"/>
-  <path fill="url(#hcaptcha-icon_svg__i)" d="M96.007 128h32.007v32.007H96.007z"/>
-  <path fill="url(#hcaptcha-icon_svg__i)" d="M64 128h32.007v32.007H64z"/>
+  <path fill="url(#hcaptcha-icon_svg__i)" d="M160.007 128h32.007v32.007h-32.007zM128 128h32.007v32.007H128z"/>
+  <path fill="url(#hcaptcha-icon_svg__i)" d="M96.007 128h32.007v32.007H96.007zM64 128h32.007v32.007H64z"/>
   <path fill="url(#hcaptcha-icon_svg__i)" d="M32.007 128h32.007v32.007H32.007z"/>
   <path fill="url(#hcaptcha-icon_svg__i)" d="M0 128h32.007v32.007H0z" opacity=".7"/>
   <path fill="url(#hcaptcha-icon_svg__j)" d="M223.993 96.007H256v32.007h-32.007z" opacity=".7"/>
   <path fill="url(#hcaptcha-icon_svg__k)" d="M192 96.007h31.993v32.007H192z"/>
-  <path fill="url(#hcaptcha-icon_svg__l)" d="M160.007 96.007h32.007v32.007h-32.007z"/>
-  <path fill="url(#hcaptcha-icon_svg__l)" d="M128 96.007h32.007v32.007H128z"/>
-  <path fill="url(#hcaptcha-icon_svg__l)" d="M96.007 96.007h32.007v32.007H96.007z"/>
-  <path fill="url(#hcaptcha-icon_svg__l)" d="M64 96.007h32.007v32.007H64z"/>
+  <path fill="url(#hcaptcha-icon_svg__l)" d="M160.007 96.007h32.007v32.007h-32.007zm-32.007 0h32.007v32.007H128z"/>
+  <path fill="url(#hcaptcha-icon_svg__l)" d="M96.007 96.007h32.007v32.007H96.007zm-32.007 0h32.007v32.007H64z"/>
   <path fill="url(#hcaptcha-icon_svg__l)" d="M32.007 96.007h32.007v32.007H32.007z"/>
   <path fill="url(#hcaptcha-icon_svg__l)" d="M0 96.007h32.007v32.007H0z" opacity=".7"/>
   <path fill="url(#hcaptcha-icon_svg__m)" d="M223.993 64H256v32.007h-32.007z" opacity=".5"/>
   <path fill="url(#hcaptcha-icon_svg__n)" d="M192 64h31.993v32.007H192z" opacity=".8"/>
-  <path fill="url(#hcaptcha-icon_svg__o)" d="M160.007 64h32.007v32.007h-32.007z"/>
-  <path fill="url(#hcaptcha-icon_svg__o)" d="M128 64h32.007v32.007H128z"/>
-  <path fill="url(#hcaptcha-icon_svg__o)" d="M96.007 64h32.007v32.007H96.007z"/>
-  <path fill="url(#hcaptcha-icon_svg__o)" d="M64 64h32.007v32.007H64z"/>
+  <path fill="url(#hcaptcha-icon_svg__o)" d="M160.007 64h32.007v32.007h-32.007zM128 64h32.007v32.007H128z"/>
+  <path fill="url(#hcaptcha-icon_svg__o)" d="M96.007 64h32.007v32.007H96.007zM64 64h32.007v32.007H64z"/>
   <path fill="url(#hcaptcha-icon_svg__o)" d="M32.007 64h32.007v32.007H32.007z" opacity=".8"/>
   <path fill="url(#hcaptcha-icon_svg__o)" d="M0 64h32.007v32.007H0z" opacity=".5"/>
   <path fill="url(#hcaptcha-icon_svg__p)" d="M192 32.007h31.993v32.007H192z" opacity=".7"/>

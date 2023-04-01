@@ -29,6 +29,5 @@
       <ellipse cx="110.536" cy="110.544" fill="#1A73E8" rx="44.898" ry="44.915"/>
     </g>
   </g>
-  <path fill="#BDC1C6" d="M0 111.74h255.983v1.448H0z" opacity=".1"/>
-  <path fill="#BDC1C6" d="M0 110.275h255.983v1.448H0z" opacity=".1"/>
+  <path fill="#BDC1C6" d="M0 111.74h255.983v1.448H0zm0-1.465h255.983v1.448H0z" opacity=".1"/>
 </svg>

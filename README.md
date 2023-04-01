@@ -65,3 +65,7 @@ Whether it's big or small, we love contributions ❤️
 <!-- markdownlint-disable -->
 
 <a href="https://github.com/BrieucCaillot"><img src="https://avatars.githubusercontent.com/u/22858504?v=4" width="50" height="50" alt=""/></a>
+
+## ⚠️ Disclaimer
+
+All logos appearing on the site are the property of their respective owners.

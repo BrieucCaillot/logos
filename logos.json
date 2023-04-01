@@ -540,6 +540,14 @@
     ]
   },
   {
+    "name": "Arc",
+    "shortname": "arc",
+    "url": "https://arc.net/",
+    "files": [
+      "arc.svg"
+    ]
+  },
+  {
     "name": "Architect",
     "shortname": "architect",
     "url": "https://arc.codes/",
@@ -722,6 +730,14 @@
     "url": "https://github.com/avajs/ava",
     "files": [
       "ava.svg"
+    ]
+  },
+  {
+    "name": "Avalanche",
+    "shortname": "avalanche",
+    "url": "https://www.avalabs.org/",
+    "files": [
+      "avalanche-icon.svg"
     ]
   },
   {
@@ -1369,6 +1385,15 @@
     ]
   },
   {
+    "name": "Binance",
+    "shortname": "binance",
+    "url": "https://www.binance.com/",
+    "files": [
+      "binance.svg",
+      "binance-icon.svg"
+    ]
+  },
+  {
     "name": "Bing",
     "shortname": "bing",
     "url": "https://www.bing.com/",
@@ -1397,7 +1422,8 @@
     "shortname": "bitcoin",
     "url": "https://bitcoin.org/",
     "files": [
-      "bitcoin.svg"
+      "bitcoin.svg",
+      "bitcoin-icon.svg"
     ]
   },
   {
@@ -1918,6 +1944,15 @@
     ]
   },
   {
+    "name": "Checkout",
+    "shortname": "checkout",
+    "url": "https://www.checkout.com/",
+    "files": [
+      "checkoutcom.svg",
+      "checkoutcom-icon.svg"
+    ]
+  },
+  {
     "name": "Chef",
     "shortname": "chef",
     "url": "https://www.chef.io/",
@@ -2398,6 +2433,14 @@
     ]
   },
   {
+    "name": "Cosmos (Atom)",
+    "shortname": "cosmos-atom",
+    "url": "https://cosmos.network/",
+    "files": [
+      "cosmos-atom-icon.svg"
+    ]
+  },
+  {
     "name": "Couchbase",
     "shortname": "couchbase",
     "url": "http://www.couchbase.com/",
@@ -2828,6 +2871,15 @@
     "url": "https://docusaurus.io/",
     "files": [
       "docusaurus.svg"
+    ]
+  },
+  {
+    "name": "Dogecoin",
+    "shortname": "dogecoin",
+    "url": "https://dogecoin.com/",
+    "files": [
+      "dogecoin.svg",
+      "dogecoin-icon.svg"
     ]
   },
   {
@@ -3845,6 +3897,15 @@
     ]
   },
   {
+    "name": "Givenchy",
+    "shortname": "givenchy",
+    "url": "https://www.givenchy.com/",
+    "files": [
+      "givenchy.svg",
+      "givenchy-1.svg"
+    ]
+  },
+  {
     "name": "Glamorous",
     "shortname": "glamorous",
     "url": "https://glamorous.rocks/",
@@ -4330,6 +4391,15 @@
     "url": "http://gruntjs.com/",
     "files": [
       "grunt.svg"
+    ]
+  },
+  {
+    "name": "Gucci",
+    "shortname": "gucci",
+    "url": "https://www.gucci.com/",
+    "files": [
+      "gucci.svg",
+      "gucci-1.svg"
     ]
   },
   {
@@ -5428,6 +5498,14 @@
     ]
   },
   {
+    "name": "Lacoste",
+    "shortname": "lacoste",
+    "url": "https://lacoste.com/",
+    "files": [
+      "lacoste.svg"
+    ]
+  },
+  {
     "name": "LanguageTool",
     "shortname": "languagetool",
     "url": "https://languagetool.org/",
@@ -6265,6 +6343,15 @@
     ]
   },
   {
+    "name": "Modulr",
+    "shortname": "modulr",
+    "url": "https://modulr.com/",
+    "files": [
+      "modulr-icon.svg",
+      "modulr.svg"
+    ]
+  },
+  {
     "name": "MODX",
     "shortname": "modx",
     "url": "http://modx.com/",
@@ -6548,6 +6635,14 @@
     "url": "http://nightwatchjs.org/",
     "files": [
       "nightwatch.svg"
+    ]
+  },
+  {
+    "name": "Nike",
+    "shortname": "nike",
+    "url": "https://www.nike.com/",
+    "files": [
+      "nike.svg"
     ]
   },
   {
@@ -7308,6 +7403,15 @@
     ]
   },
   {
+    "name": "Polygon (Matic)",
+    "shortname": "polygon-matic",
+    "url": "https://polygon.technology/",
+    "files": [
+      "polygon-matic.svg",
+      "polygon-matic-icon.svg"
+    ]
+  },
+  {
     "name": "Polymer",
     "shortname": "polymer",
     "url": "https://www.polymer-project.org/1.0/",
@@ -7686,6 +7790,15 @@
     ]
   },
   {
+    "name": "Quickbooks",
+    "shortname": "quickbooks",
+    "url": "https://quickbooks.intuit.com/",
+    "files": [
+      "quickbooks.svg",
+      "quickbooks-icon.svg"
+    ]
+  },
+  {
     "name": "quobyte",
     "shortname": "quobyte",
     "url": "http://www.quobyte.com/",
@@ -7790,6 +7903,15 @@
     "url": "https://rax.js.org",
     "files": [
       "rax.svg"
+    ]
+  },
+  {
+    "name": "Razorpay",
+    "shortname": "razorpay",
+    "url": "https://razorpay.com/",
+    "files": [
+      "razorpay.svg",
+      "razorpay-icon.svg"
     ]
   },
   {
@@ -8455,12 +8577,28 @@
     ]
   },
   {
+    "name": "Shares.io",
+    "shortname": "shares",
+    "url": "https://www.shares.io/",
+    "files": [
+      "shares.svg"
+    ]
+  },
+  {
     "name": "Sherlock",
     "shortname": "sherlock",
     "url": "https://www.sherlockscore.com/",
     "files": [
       "sherlock-icon.svg",
       "sherlock.svg"
+    ]
+  },
+  {
+    "name": "Shiba Inu",
+    "shortname": "shiba-inu",
+    "url": "https://shibatoken.com/",
+    "files": [
+      "shibainu-icon.svg"
     ]
   },
   {
@@ -8657,6 +8795,15 @@
     "url": "http://socket.io/",
     "files": [
       "socket.io.svg"
+    ]
+  },
+  {
+    "name": "Solana",
+    "shortname": "solana",
+    "url": "https://solana.com/",
+    "files": [
+      "solana.svg",
+      "solana-icon.svg"
     ]
   },
   {
@@ -9386,6 +9533,15 @@
     ]
   },
   {
+    "name": "Tesla",
+    "shortname": "tesla",
+    "url": "https://www.tesla.com/",
+    "files": [
+      "tesla.svg",
+      "tesla-1.svg"
+    ]
+  },
+  {
     "name": "TestCafe",
     "shortname": "testcafe",
     "url": "https://testcafe.io/",
@@ -9407,6 +9563,15 @@
     "url": "http://www.testlodge.com/",
     "files": [
       "testlodge.svg"
+    ]
+  },
+  {
+    "name": "Tether",
+    "shortname": "tether",
+    "url": "https://tether.to/",
+    "files": [
+      "tether.svg",
+      "tether-icon.svg"
     ]
   },
   {
@@ -9442,6 +9607,15 @@
     "files": [
       "tiktok-icon.svg",
       "tiktok.svg"
+    ]
+  },
+  {
+    "name": "Tink",
+    "shortname": "tink",
+    "url": "https://tink.com/",
+    "files": [
+      "tink-icon.svg",
+      "tink.svg"
     ]
   },
   {
@@ -9531,7 +9705,17 @@
     "shortname": "trello",
     "url": "https://trello.com/",
     "files": [
-      "trello.svg"
+      "trello.svg",
+      "trello-icon.svg"
+    ]
+  },
+  {
+    "name": "Tron",
+    "shortname": "tron",
+    "url": "https://tron.network/",
+    "files": [
+      "tron-icon.svg",
+      "tron-icon-1.svg"
     ]
   },
   {
@@ -9819,6 +10003,15 @@
     "url": "https://www.upwork.com/",
     "files": [
       "upwork.svg"
+    ]
+  },
+  {
+    "name": "USDC",
+    "shortname": "usdc",
+    "url": "https://www.centre.io/usdc",
+    "files": [
+      "usdc.svg",
+      "usdc-icon.svg"
     ]
   },
   {
@@ -10479,6 +10672,14 @@
     ]
   },
   {
+    "name": "XRP",
+    "shortname": "xrp",
+    "url": "https://xrpl.org/",
+    "files": [
+      "xrp-icon.svg"
+    ]
+  },
+  {
     "name": "XState",
     "shortname": "xstate",
     "url": "https://xstate.js.org/",
@@ -10582,6 +10783,14 @@
     "files": [
       "youtube-icon.svg",
       "youtube.svg"
+    ]
+  },
+  {
+    "name": "Yves Saint Laurent",
+    "shortname": "ysl",
+    "url": "https://www.ysl.com/",
+    "files": [
+      "ysl.svg"
     ]
   },
   {
