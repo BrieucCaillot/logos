@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"svgo": "npx svgo -f logos -o logos",
+		"svgo": " svgo --config svgo.config.js logos/*.svg",
 		"sort": "node sort_logos.js",
 		"pre-commit": "pnpm run svgo && pnpm run sort",
 		"prepare": "husky install"

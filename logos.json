@@ -33,6 +33,16 @@
     ]
   },
   {
+    "name": "Adidas",
+    "shortname": "adidas",
+    "url": "https://www.adidas.com/",
+    "files": [
+      "adidas.svg",
+      "adidas-1.svg",
+      "adidas-2.svg"
+    ]
+  },
+  {
     "name": "Adobe After Effects",
     "shortname": "adobe-after-effects",
     "url": "https://www.adobe.com/products/aftereffects.html",
@@ -1609,6 +1619,14 @@
     ]
   },
   {
+    "name": "Breitling",
+    "shortname": "breitling",
+    "url": "https://www.breitling.com/",
+    "files": [
+      "breitling.svg"
+    ]
+  },
+  {
     "name": "Broadcom",
     "shortname": "broadcom",
     "url": "https://www.broadcom.com/",
@@ -1760,6 +1778,14 @@
     ]
   },
   {
+    "name": "Bulgari",
+    "shortname": "bulgari",
+    "url": "https://www.bulgari.com/",
+    "files": [
+      "bulgari.svg"
+    ]
+  },
+  {
     "name": "Bulma",
     "shortname": "bulma",
     "url": "https://bulma.io/",
@@ -1883,6 +1909,14 @@
     "files": [
       "cardano-icon.svg",
       "cardano.svg"
+    ]
+  },
+  {
+    "name": "Cartier",
+    "shortname": "cartier",
+    "url": "https://www.cartier.com/",
+    "files": [
+      "cartier.svg"
     ]
   },
   {
@@ -2798,6 +2832,15 @@
     ]
   },
   {
+    "name": "Dior",
+    "shortname": "dior",
+    "url": "https://www.dior.com/",
+    "files": [
+      "dior.svg",
+      "dior-1.svg"
+    ]
+  },
+  {
     "name": "Discord",
     "shortname": "discord",
     "url": "https://discordapp.com/",
@@ -2871,6 +2914,14 @@
     "url": "https://docusaurus.io/",
     "files": [
       "docusaurus.svg"
+    ]
+  },
+  {
+    "name": "DocuSign",
+    "shortname": "docusign",
+    "url": "https://www.docusign.com/",
+    "files": [
+      "docusign.svg"
     ]
   },
   {
@@ -3475,6 +3526,14 @@
     ]
   },
   {
+    "name": "Fitbit",
+    "shortname": "fitbit",
+    "url": "https://www.fitbit.com/",
+    "files": [
+      "fitbit.svg"
+    ]
+  },
+  {
     "name": "flannel",
     "shortname": "flannel",
     "url": "https://github.com/coreos/flannel",
@@ -3646,6 +3705,14 @@
     "url": "https://github.com/foreverjs/forever",
     "files": [
       "forever.svg"
+    ]
+  },
+  {
+    "name": "Formance",
+    "shortname": "formance",
+    "url": "https://formance.com/",
+    "files": [
+      "formance.svg"
     ]
   },
   {
@@ -4400,6 +4467,14 @@
     "files": [
       "gucci.svg",
       "gucci-1.svg"
+    ]
+  },
+  {
+    "name": "Guerlain",
+    "shortname": "guerlain",
+    "url": "https://www.guerlain.com/",
+    "files": [
+      "guerlain.svg"
     ]
   },
   {
@@ -5498,11 +5573,21 @@
     ]
   },
   {
+    "name": "L'Oréal",
+    "shortname": "loreal",
+    "url": "https://www.loreal.com/",
+    "files": [
+      "loreal.svg",
+      "loreal-1.svg"
+    ]
+  },
+  {
     "name": "Lacoste",
     "shortname": "lacoste",
     "url": "https://lacoste.com/",
     "files": [
-      "lacoste.svg"
+      "lacoste.svg",
+      "lacoste-1.svg"
     ]
   },
   {
@@ -6038,6 +6123,14 @@
     ]
   },
   {
+    "name": "Maybelline",
+    "shortname": "maybelline",
+    "url": "https://www.maybelline.com/",
+    "files": [
+      "maybelline.svg"
+    ]
+  },
+  {
     "name": "MDN",
     "shortname": "mdn",
     "url": "https://developer.mozilla.org/",
@@ -6267,6 +6360,14 @@
     "url": "https://m.io/",
     "files": [
       "mio.svg"
+    ]
+  },
+  {
+    "name": "Miro",
+    "shortname": "miro",
+    "url": "https://miro.com/",
+    "files": [
+      "miro.svg"
     ]
   },
   {
@@ -6654,6 +6755,14 @@
     ]
   },
   {
+    "name": "Nissan",
+    "shortname": "nissan",
+    "url": "https://www.nissanusa.com/",
+    "files": [
+      "nissan.svg"
+    ]
+  },
+  {
     "name": "NocoDB",
     "shortname": "nocodb",
     "url": "https://nocodb.com/",
@@ -6792,6 +6901,14 @@
     "url": "https://nx.dev/",
     "files": [
       "nx.svg"
+    ]
+  },
+  {
+    "name": "NYX",
+    "shortname": "nyx",
+    "url": "https://www.nyxcosmetics.com/",
+    "files": [
+      "nyx.svg"
     ]
   },
   {
@@ -7256,6 +7373,14 @@
     ]
   },
   {
+    "name": "Piaget",
+    "shortname": "piaget",
+    "url": "https://www.piaget.com/",
+    "files": [
+      "piaget.svg"
+    ]
+  },
+  {
     "name": "Pinterest",
     "shortname": "pinterest",
     "url": "https://www.pinterest.com/",
@@ -7507,6 +7632,14 @@
     "url": "https://prettier.io/",
     "files": [
       "prettier.svg"
+    ]
+  },
+  {
+    "name": "Prime Video",
+    "shortname": "prime-video",
+    "url": "https://www.primevideo.com/",
+    "files": [
+      "prime-video.svg"
     ]
   },
   {
@@ -8180,6 +8313,15 @@
     ]
   },
   {
+    "name": "Rimowa",
+    "shortname": "rimowa",
+    "url": "https://www.rimowa.com/",
+    "files": [
+      "rimowa.svg",
+      "rimowa-icon.svg"
+    ]
+  },
+  {
     "name": "Riot",
     "shortname": "riotjs",
     "url": "https://riot.js.org/",
@@ -8271,6 +8413,14 @@
     "url": "http://smrchy.github.io/rsmq/",
     "files": [
       "rsmq.svg"
+    ]
+  },
+  {
+    "name": "RTFKT",
+    "shortname": "rtfkt",
+    "url": "https://www.rtfkt.com/",
+    "files": [
+      "rtfkt.svg"
     ]
   },
   {
@@ -9575,6 +9725,15 @@
     ]
   },
   {
+    "name": "The North Face",
+    "shortname": "thenorthface",
+    "url": "https://www.thenorthface.com/",
+    "files": [
+      "thenorthface.svg",
+      "thenorthface-1.svg"
+    ]
+  },
+  {
     "name": "three.js",
     "shortname": "threejs",
     "url": "https://threejs.org/",
@@ -9824,7 +9983,8 @@
     "shortname": "twitch",
     "url": "http://www.twitch.tv/",
     "files": [
-      "twitch.svg"
+      "twitch.svg",
+      "twitch-icon.svg"
     ]
   },
   {
@@ -10377,7 +10537,8 @@
     "shortname": "webflow",
     "url": "https://webflow.com",
     "files": [
-      "webflow.svg"
+      "webflow.svg",
+      "webflow-1.svg"
     ]
   },
   {
@@ -10875,6 +11036,15 @@
     "url": "http://www.zoho.com/",
     "files": [
       "zoho.svg"
+    ]
+  },
+  {
+    "name": "Zoom",
+    "shortname": "zoom",
+    "url": "https://zoom.us/",
+    "files": [
+      "zoom.svg",
+      "zoom-icon.svg"
     ]
   },
   {
