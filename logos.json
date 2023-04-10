@@ -248,6 +248,24 @@
     ]
   },
   {
+    "name": "Alibaba",
+    "shortname": "alibaba-group",
+    "url": "https://www.alibabagroup.com/",
+    "files": [
+      "alibaba-group.svg",
+      "alibaba-group-icon.svg"
+    ]
+  },
+  {
+    "name": "Aliexpress",
+    "shortname": "aliexpress",
+    "url": "https://aliexpress.com/",
+    "files": [
+      "aliexpress.svg",
+      "aliexpress-icon.svg"
+    ]
+  },
+  {
     "name": "Alpine.js",
     "shortname": "alpinejs",
     "url": "https://alpinejs.dev/",
@@ -262,6 +280,15 @@
     "url": "https://altair.sirmuel.design/",
     "files": [
       "altair.svg"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "shortname": "amazon",
+    "url": "https://www.amazon.com/",
+    "files": [
+      "amazon.svg",
+      "amazon-icon.svg"
     ]
   },
   {
@@ -6487,7 +6514,7 @@
   {
     "name": "Modulr",
     "shortname": "modulr",
-    "url": "https://modulr.com/",
+    "url": "https://modulrfinance.com/",
     "files": [
       "modulr-icon.svg",
       "modulr.svg"
