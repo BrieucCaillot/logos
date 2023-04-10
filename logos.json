@@ -2837,7 +2837,8 @@
     "url": "https://www.dior.com/",
     "files": [
       "dior.svg",
-      "dior-1.svg"
+      "dior-1.svg",
+      "dior-2.svg"
     ]
   },
   {
@@ -3315,6 +3316,14 @@
     "url": "http://eslint.org/",
     "files": [
       "eslint.svg"
+    ]
+  },
+  {
+    "name": "Estée Lauder",
+    "shortname": "estee-lauder",
+    "url": "https://www.esteelauder.fr/",
+    "files": [
+      "estee-lauder.svg"
     ]
   },
   {
@@ -5591,6 +5600,14 @@
     ]
   },
   {
+    "name": "Lancel",
+    "shortname": "lancel",
+    "url": "https://lancel.com/",
+    "files": [
+      "lancel.svg"
+    ]
+  },
+  {
     "name": "LanguageTool",
     "shortname": "languagetool",
     "url": "https://languagetool.org/",
@@ -5655,6 +5672,14 @@
     "files": [
       "leankit-icon.svg",
       "leankit.svg"
+    ]
+  },
+  {
+    "name": "Lens Studio",
+    "shortname": "lens-studio",
+    "url": "https://ar.snap.com/lens-studio",
+    "files": [
+      "lens-studio.svg"
     ]
   },
   {
@@ -6202,6 +6227,22 @@
     "url": "https://www.messenger.com/",
     "files": [
       "messenger.svg"
+    ]
+  },
+  {
+    "name": "Meta",
+    "shortname": "Meta",
+    "url": "https://www.meta.com/fr/en/",
+    "files": [
+      "meta.svg"
+    ]
+  },
+  {
+    "name": "Meta Spark",
+    "shortname": "spark-ar",
+    "url": "https://sparkar.facebook.com/ar-studio/",
+    "files": [
+      "meta-spark.svg"
     ]
   },
   {
@@ -8904,6 +8945,14 @@
     "url": "http://www.smashingmagazine.com/",
     "files": [
       "smashingmagazine.svg"
+    ]
+  },
+  {
+    "name": "Snap AR",
+    "shortname": "snap-ar",
+    "url": "https://ar.snap.com/lens-studio",
+    "files": [
+      "snap-ar.svg"
     ]
   },
   {
